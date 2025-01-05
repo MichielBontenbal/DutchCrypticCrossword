@@ -56,4 +56,29 @@ Result: 19% correct (16 out of 86 questions)
 | 48 | Reactie helemaal in het midden (6)                                                       | hartje               | Reflex               | nee    |
 | 49 | Stop op het hoogtepunt (3)                                                               | nok                  | top                  | nee    |
 | 50 | Is onzijdig, behalve als het jong is (4)                                                 | ding                 | KIND                 | nee    |
+| #  | Omschrijving                                                                 | Antwoord 1            | Antwoord 2             | Juist? |
+|----|-----------------------------------------------------------------------------|-----------------------|------------------------|--------|
+| 51 | Bourgondische versie van een Nederlandse soap (4+1+2)                       | Cote d'or            | Eet 't op             | nee    |
+| 52 | Apple, maar ook Action (5)                                                  | A-merk               | KETEN                 | nee    |
+| 53 | Die gozer is niet thuis (4)                                                 | gast                 | niet                  | nee    |
+| 54 | Bevervacht (8)                                                              | trilhaar             | Verwacht              | nee    |
+| 55 | Mystiek familielid van het urinemonster (10)                                | watergeest           | hermetisme            | nee    |
+| 56 | Superschot (13+4)                                                           | overtreffende trap   | Een Schot in de Roos  | nee    |
+| 57 | Flauw commentaar (10+7)                                                     | ongezouten kritiek   | Broodjeaapverhaal     | nee    |
+| 58 | Die breuk impliceert psychische schade (4)                                  | knak                 | Deuk                  | nee    |
+| 59 | Het was heerlijk,' zei de paus (15)                                         | zaligverklaring      | Het was goddelijk     | nee    |
+| 60 | Doen werklozen en geparkeerde auto's (2+6+5)                                | op straat staan      | Op straat staan       | ja     |
+| 61 | Niet-passend treffen onder diensttijd (8)                                   | mismatch             | ongepast              | nee    |
+| 62 | Zuid-Hollander die zware zaken te beoordelen krijgt (12)                    | Moordrechter         | Sliedrechter          | nee    |
+| 63 | Met maar een paar gerechten kom je als reiziger niet ver (6+5)              | kleine kaart         | Kleine kaart          | ja     |
+| 64 | Steen (goede kaart) (6)                                                     | topaas               | Ruiten                | nee    |
+| 65 | En dan is het ook nog een stukje familievermogen (11)                       | neveneffect          | Handtekening          | nee    |
+| 66 | Met harde hand zacht gemaakt (6)                                            | geweld               | Kneden                | nee    |
+| 67 | Men zegt dat hij blijft (8)                                                 | schrijver            | monument              | nee    |
+| 68 | Is samengebald op de set (4)                                                | prop                 | edit                  | nee    |
+| 69 | Zo in de nacht komt men zich laten zien (4+2+3)                             | voor de dag          | Voor de dag           | ja     |
+| 70 | Zo kapot dat je het moede hoofd te ruste wil leggen (3+4+2+5)               | rijp voor de sloop   | Met lood in benen     | nee    |
+| 71 | Fijn om te horen, een verkiezing zonder ongeregeldheden (7+8)               | zuivere stemming     | Zuivere stemming      | ja     |
+| 72 | Slap keukenartikel (6)                                                      | vadoek               | Spatel                | nee    |
+| 73 | Voorkomend dat men bij de les is (6)                                        | attent               | Attent                | ja     |
 
