@@ -56,8 +56,6 @@ Result: 19% correct (16 out of 86 questions)
 | 48 | Reactie helemaal in het midden (6)                                                       | hartje               | Reflex               | nee    |
 | 49 | Stop op het hoogtepunt (3)                                                               | nok                  | top                  | nee    |
 | 50 | Is onzijdig, behalve als het jong is (4)                                                 | ding                 | KIND                 | nee    |
-| #  | Omschrijving                                                                 | Antwoord 1            | Antwoord 2             | Juist? |
-|----|-----------------------------------------------------------------------------|-----------------------|------------------------|--------|
 | 51 | Bourgondische versie van een Nederlandse soap (4+1+2)                       | Cote d'or            | Eet 't op             | nee    |
 | 52 | Apple, maar ook Action (5)                                                  | A-merk               | KETEN                 | nee    |
 | 53 | Die gozer is niet thuis (4)                                                 | gast                 | niet                  | nee    |
@@ -81,4 +79,18 @@ Result: 19% correct (16 out of 86 questions)
 | 71 | Fijn om te horen, een verkiezing zonder ongeregeldheden (7+8)               | zuivere stemming     | Zuivere stemming      | ja     |
 | 72 | Slap keukenartikel (6)                                                      | vadoek               | Spatel                | nee    |
 | 73 | Voorkomend dat men bij de les is (6)                                        | attent               | Attent                | ja     |
+| 74 | Niet werken bij gebrek aan inhoud (9)                                       | ledigheid            | Leegstand           | nee    |
+| 75 | Wanneer gasten zich als dweil gedragen (4+2+5+5)                            | over de vloer komen  | Over de vloer komen | ja     |
+| 76 | Utrechtse familie van de Weesper mop (12+3)                                 | Amersfoortse kei     | Utrechtse moppen    | nee    |
+| 77 | Stom genoeg ben je er niet bij (3)                                          | suf                  | dom                 | nee    |
+| 78 | Zielloze clubmuziek (8)                                                     | ledenpop             | synthpop            | nee    |
+| 79 | Ze blijkt het toch niet met iedereen te doen in Brabant (8)                 | Schijndel            | monogame            | nee    |
+| 80 | Binnenland (9)                                                              | terrarium            | Nederland           | nee    |
+| 81 | Maatschappelijke ontwikkeling die tegen de studentencultuur ingaat (8)      | vergroening          | Orthodox            | nee    |
+| 82 | Hersens gebruikt? Vergeet het maar (3+2+7)                                  | had je gedacht       | Het is waanzin      | nee    |
+| 83 | Juist onaangedaan (4)                                                       | vlak                 | koel                | nee    |
+| 84 | Schema van zoon Alex (6)                                                    | matrix               | schema              | nee    |
+| 85 | Hun tanden zijn wit geschilderd (6)                                         | haalen               | haaien              | ja     |
+| 86 | Stroming binnen de fanzone (10)                                             | ventilatie           | Afzonderen          | nee    |
+
 
