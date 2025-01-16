@@ -4,7 +4,7 @@ Code to solve Dutch Cryptic Crossword using reasoning models.
 ### First run: OpenAI o1 3 januari 2024
 Result: 19% correct (16 out of 86 questions)
 
-| #  | Omschrijving                                                                               | Antwoord 1            | Antwoord 2            | Juist? |
+| #  | Omschrijving                                                                               | Goede Antwoord           | Antwoord o1            | Juist? |
 |----|-------------------------------------------------------------------------------------------|-----------------------|-----------------------|--------|
 | 1  | Ach, dan komen er misschien wat minder skaters (4+4)                                      | Geen ramp            | Dooi weer            | nee    |
 | 2  | 8. Vaak in de weg liggende familie van de wijsvinger (13)                                 | Verstandskies        | wegversperring       | nee    |
@@ -12,7 +12,7 @@ Result: 19% correct (16 out of 86 questions)
 | 4  | 11. Hoge toon waar kinderen niet bij kunnen (8+2)                                         | Bovenste la          | Toonbank op          | nee    |
 | 5  | 12. Het werkt toch minder als een regionale zender zich klassiek gaat presenteren (3)     | ATV                  | OFF                  | nee    |
 | 6  | 13. Op het scherm is te zien waarin de klusjesman zijn accessoires bewaart (6)           | Bitmap               | schort               | nee    |
-| 7  | 16. Waarschuwing om televisie te kunnen kijken (7)                                        | Signaal              | Signaal              | nee    |
+| 7  | 16. Waarschuwing om televisie te kunnen kijken (7)                                        | Signaal              | Signaal              | ja    |
 | 8  | 17. Voorgedragen Nederlandse pianist (8)                                                 | Borstlap             | Gevraagd             | nee    |
 | 9  | 18. Stabiele types na carnaval (6)                                                       | Vasten               | Vasten               | ja     |
 | 10 | 19. Zo gesimplificeerd dat je naar bed kan (10)                                          | Uitgekleed           | Uitgekleed           | ja     |
